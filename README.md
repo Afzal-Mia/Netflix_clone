@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 ### Netflix Clone UI 🖼
-![Preview 1](./frontend/Net_pre_1.png)
+![Preview 1](/frontend/Net_pre_1.png)
 ![Preview 2](./frontend/Net_pre_2.png)
 ![Preview 3](./frontend/Net_pre_3.png)
 ![Preview 4](./frontend/Net_pre_4.png)
