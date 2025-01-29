@@ -1,6 +1,13 @@
-# 🎬 Netflix Clone 🍿
+                                                             # 🎬 Netflix Clone 🍿
 
-![Netflix Clone](frontend/Net_pre_1.png)
+## 📸 Preview
+### Netflix Clone UI 🖼
+![Netflix Clone](./frontend/Net_pre_1.png)
+![Preview 1](frontend/Net_pre_2.png)
+![Preview 2](frontend/Net_pre_3.png)
+![Preview 3](frontend/Net_pre_4.png)
+![Preview 4](frontend/Net_pre_5.png)
+![Preview 5](frontend/Net_pre_6.png)
 
 ## 🚀 Overview
 This is a full-stack **Netflix clone** built with modern web technologies, providing an immersive movie-watching experience. The project includes **authentication**, **movie & TV show browsing**, **search functionality**, and **user-protected routes**.
@@ -137,13 +144,7 @@ netflix-clone/
 
 ---
 
-## 📸 Preview
-### Netflix Clone UI 🖼
-![Preview 1](frontend/Net_pre_2.png)
-![Preview 2](frontend/Net_pre_3.png)
-![Preview 3](frontend/Net_pre_4.png)
-![Preview 4](frontend/Net_pre_5.png)
-![Preview 5](frontend/Net_pre_6.png)
+
 
 ---
 
